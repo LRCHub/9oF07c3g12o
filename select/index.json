@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "プロキシー",
+  "base_artist": "Room97",
+  "createdAt": "2026-02-11T07:40:16.430454Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "プロキシー",
+      "artist": "Room97",
+      "has_synced": false,
+      "path": "select/pl_01_プロキシー_Room97.txt"
+    }
+  ]
+}
